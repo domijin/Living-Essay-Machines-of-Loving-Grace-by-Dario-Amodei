@@ -1,4 +1,4 @@
-# Living Essay: [Machines of Loving Grace by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
+# Living Essay: [Machines of Loving Grace by Dario Amodei](MachinesOfLovingGrace.md)
 
 ## Motivation
 
@@ -45,6 +45,6 @@ We want to maintain a positive, inclusive environment where ideas can flourish. 
 
 ## Acknowledgments
 
-This project is based on Dario Amodei's essay, [*Machines of Loving Grace - How AI Could Transform the World for the Better*](https://darioamodei.com/machines-of-loving-grace). We extend our gratitude to Amodei for his foundational ideas, and we acknowledge all contributors who join this effort to collectively evolve this work.
+This project is based on Dario Amodei's essay, [*Machines of Loving Grace - How AI Could Transform the World for the Better*](MachinesOfLovingGrace.md), originally published [here](https://darioamodei.com/machines-of-loving-grace), extracted by jina.ai on 2024-10-14. We extend our gratitude to Amodei for his foundational ideas, and we acknowledge all contributors who join this effort to collectively evolve this work.
 
 All contributors to the essay’s evolution will be credited in the Contributors section, recognizing their valuable input in this collaborative effort.
